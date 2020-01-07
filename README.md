@@ -3,4 +3,12 @@ PowerShell - Two for one. Auto complete for ruts's  'cargo' command and the scri
 
 ## Install
 
-`Install-Module PSCargCompletion -Force`
+`Install-Module PSCargoCompletion -Force`
+
+## Then
+
+`Import-Module PSCargoCompletion`
+
+## Finally
+
+![](./media/autocomplete.png)
